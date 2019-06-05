@@ -396,7 +396,7 @@ switch ($message) {
                 case 'portes': $imatge="./tresportes.jpg"; break;
             }
 
-            $botToken= "703703713:AAEPDnyozC447zzeKbTy2ImuqNCi_EaxCEY";
+            $botToken= "";
     
             $website = "https://api.telegram.org/bot".$botToken;
     
